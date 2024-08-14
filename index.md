@@ -11,3 +11,6 @@
 string greetings = "Hello, world!";
 Console.WriteLine(greetings);
 ```
+- [x] Finish Step 1
+- [x] Finish Step 2
+- [ ] Finish Step 3
